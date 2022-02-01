@@ -1,8 +1,7 @@
-
 # 100-days-of-python
 100 days of coding in python to gain professional proficiency
 ## Day 1
-Basic I/O and variables 
+Basic I/O and variables in python
 Project: -Band Name Generator
 ## Day 2
 Data types and String Manipulation 
