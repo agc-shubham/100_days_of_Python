@@ -4,7 +4,7 @@
 Basic I/O and variables in python
 Project: -Band Name Generator
 ## Day 2
-Data types and String Manipulation 
+Different Data types and String Manipulation in python
 Project: -Bill Splitor
 ## Day 3
 Control Flow and Logical Operators 
