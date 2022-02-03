@@ -7,7 +7,7 @@ Project: -Band Name Generator
 Different Data types and String Manipulation in python
 Project: -Bill Splitor
 ## Day 3
-Control Flow and Logical Operators 
+Control Flow and Logical Operators in python
 Project: -Treasure Hunt
 ## Day 4
 Random Module and Lists in python  
