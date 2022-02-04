@@ -13,19 +13,19 @@ Project: -Treasure Hunt
 Random Module and Lists in python  
 Project: -Rock Paper scissors
 ## Day 5
-Loops 
+Loops in python
 Project: -Random password generator
 ## Day 6
-Functions 
+Functions in python
 Project: -Maze Solver
 ## Day 7
-Practising concepts 
+Practising concepts learned through day 1 to 6
 Project: -hangman
 ## Day 8
 Functions with arguments 
 Project: -ceaser cipher
 ## Day 9
-Dictionaries 
+Dictionaries in python
 Project: -Anonymous bidding
 ## Day 10
 Functions and recursion
