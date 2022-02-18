@@ -32,16 +32,16 @@ Functions and recursion
 Project: -Calculator
 ## Day 11
 Capstone Project
-Project: -Blackjack
+Project: -Blackjack(Utilizing concepts of control flow and functions)
 ## Day 12
 Functions and Scope
 Project: -NumberGuess
 ## Day 13
 Debugging
 ## Day 14
-Project: Higher or Lower Game
+Project: Higher or Lower Game(Utilizing concepts of control flow and loops)
 ## Day 15
-Project: Script for operating coffee machine
+Project: Script for operating coffee machine(Utilizing concepts of control flow and function)
 ## Day 16
 Project: Script for operating coffee machine using OO paradigm
 ## Day 17
