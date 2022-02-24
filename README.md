@@ -79,4 +79,4 @@ Project: Improved Upon project of day 29 and added search password method along 
 ## Day 31
 Project: Created a flash card app that let users learn different concepts using flash cards.
 ## Day 32
-Project: Creating automated scripts to send Mails.
+Project: Created automated scripts to send Mails using smtp library. Added extra layer of protection by keeping sensitive information in .env file
