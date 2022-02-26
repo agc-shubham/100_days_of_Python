@@ -80,3 +80,6 @@ Project: Improved Upon project of day 29 and added search password method along 
 Project: Created a flash card app that let users learn different concepts using flash cards.
 ## Day 32
 Project: Created automated scripts to send Mails using smtp library. Added extra layer of protection by keeping sensitive information in .env file
+## Day 33
+Working with rest apis. learned to make api requests from requests module
+Project: created a script that mails users when ISS is overhead.
